@@ -77,3 +77,6 @@ menu:
     - name: archive
       url: /tags/archive/
       weight: 6
+    - name: insta
+      url: /tags/insta/
+      weight: 7
